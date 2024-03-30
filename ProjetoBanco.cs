@@ -51,6 +51,12 @@ class Program
         {
             return numero.GetHashCode();
         }
+
+        public override string ToString()
+        {
+            return $"Conta: {numero}, Titular: {titular}, Saldo: {saldo:C}, Data de Abertura: {dataAbertura}";
+        }
+        
         public void imprimeDadosConta()
         {
             Console.WriteLine("-=- Informações de Conta -=-");
