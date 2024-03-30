@@ -1,0 +1,15 @@
+c:\Users\lucas\Documents\Faculdade\3° SEM\POO\Tarefa 4 _ Criando uma aplicacao OO\Projeto-Banco\bin\Debug\net8.0\Projeto-Banco.exe
+c:\Users\lucas\Documents\Faculdade\3° SEM\POO\Tarefa 4 _ Criando uma aplicacao OO\Projeto-Banco\bin\Debug\net8.0\Projeto-Banco.deps.json
+c:\Users\lucas\Documents\Faculdade\3° SEM\POO\Tarefa 4 _ Criando uma aplicacao OO\Projeto-Banco\bin\Debug\net8.0\Projeto-Banco.runtimeconfig.json
+c:\Users\lucas\Documents\Faculdade\3° SEM\POO\Tarefa 4 _ Criando uma aplicacao OO\Projeto-Banco\bin\Debug\net8.0\Projeto-Banco.dll
+c:\Users\lucas\Documents\Faculdade\3° SEM\POO\Tarefa 4 _ Criando uma aplicacao OO\Projeto-Banco\bin\Debug\net8.0\Projeto-Banco.pdb
+c:\Users\lucas\Documents\Faculdade\3° SEM\POO\Tarefa 4 _ Criando uma aplicacao OO\Projeto-Banco\obj\Debug\net8.0\Projeto-Banco.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\lucas\Documents\Faculdade\3° SEM\POO\Tarefa 4 _ Criando uma aplicacao OO\Projeto-Banco\obj\Debug\net8.0\Projeto-Banco.AssemblyInfoInputs.cache
+c:\Users\lucas\Documents\Faculdade\3° SEM\POO\Tarefa 4 _ Criando uma aplicacao OO\Projeto-Banco\obj\Debug\net8.0\Projeto-Banco.AssemblyInfo.cs
+c:\Users\lucas\Documents\Faculdade\3° SEM\POO\Tarefa 4 _ Criando uma aplicacao OO\Projeto-Banco\obj\Debug\net8.0\Projeto-Banco.csproj.CoreCompileInputs.cache
+c:\Users\lucas\Documents\Faculdade\3° SEM\POO\Tarefa 4 _ Criando uma aplicacao OO\Projeto-Banco\obj\Debug\net8.0\Projeto-Banco.sourcelink.json
+c:\Users\lucas\Documents\Faculdade\3° SEM\POO\Tarefa 4 _ Criando uma aplicacao OO\Projeto-Banco\obj\Debug\net8.0\Projeto-Banco.dll
+c:\Users\lucas\Documents\Faculdade\3° SEM\POO\Tarefa 4 _ Criando uma aplicacao OO\Projeto-Banco\obj\Debug\net8.0\refint\Projeto-Banco.dll
+c:\Users\lucas\Documents\Faculdade\3° SEM\POO\Tarefa 4 _ Criando uma aplicacao OO\Projeto-Banco\obj\Debug\net8.0\Projeto-Banco.pdb
+c:\Users\lucas\Documents\Faculdade\3° SEM\POO\Tarefa 4 _ Criando uma aplicacao OO\Projeto-Banco\obj\Debug\net8.0\Projeto-Banco.genruntimeconfig.cache
+c:\Users\lucas\Documents\Faculdade\3° SEM\POO\Tarefa 4 _ Criando uma aplicacao OO\Projeto-Banco\obj\Debug\net8.0\ref\Projeto-Banco.dll
