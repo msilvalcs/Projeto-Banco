@@ -12,7 +12,7 @@
     public int getDia(){return dia;}
     public void setDia(int d){ dia = (d>0) && (d<=31) ? d : 1; }
     public int getMes(){return mes;}
-    public void setMes(int m){ mes = (m>0) && (d<=12) ? d : 1; }
+    public void setMes(int m){ mes = (m>0) && (m<=12) ? m : 1; }
     public int getAno(){return ano;}
     public void setAno(int a) { ano = a>0 ? a : 2010;}
 }
@@ -26,10 +26,10 @@ class Agencia
 
     public Agencia(int codigo, string descricao, int dia, int mes,int ano)
     {
-        codigo = codigo;
-        descricao = descricao;
+        this.codigo = codigo;
+        this.descricao = descricao;
         dataAbertura = new Data(dia, mes, ano);
-        contas = new List<Conta>;
+        contas = new List<Conta>();
     }
 
     public void adicionar(Conta conta)
@@ -42,7 +42,7 @@ class Agencia
         contas.remove(conta);
     }
 
-    public List<Conta> listarContar()
+    public List<Conta> listarConta()
     {
         foreach(var conta in contas)
         {
@@ -68,7 +68,7 @@ class Conta
 
     public int getNumero(){ return numero; }
     public void setNumero(int num) { numero = num; }
-    public string getTitular() {r eturn titular; }
+    public string getTitular() { return titular; }
     public void setTitular(string titu) { titular = titu; }
     public double getSaldo() { return saldo; }
     public void setSaldo(int sald) { saldo = sald; }
