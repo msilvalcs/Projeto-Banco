@@ -28,7 +28,14 @@ class Program
 
         public double debitar(double valorDebitar)
         {
-            saldo -= valorDebitar;
+            if (valorDebitar < saldo)
+            {
+                saldo -= valorDebitar;
+            }
+            else
+            {
+                Console.WriteLine("Saldo inválido!");
+            }
             return saldo;
         }
 
@@ -56,7 +63,7 @@ class Program
         {
             return $"Conta: {numero}, Titular: {titular}, Saldo: {saldo:C}, Data de Abertura: {dataAbertura}";
         }
-        
+
         public void imprimeDadosConta()
         {
             Console.WriteLine("-=- Informações de Conta -=-");
@@ -78,7 +85,7 @@ class Program
     {
         Conta c1 = new Conta(1, "José", 500);
         c1.imprimeDadosConta();
-        
+
         c1.debitar(12222);
         c1.imprimeDadosConta();
 
