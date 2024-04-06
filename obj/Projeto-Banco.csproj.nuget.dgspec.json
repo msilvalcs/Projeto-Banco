@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\lucas\\Documents\\Faculdade\\3° SEM\\POO\\Tarefa 4 _ Criando uma aplicacao OO\\Projeto-Banco\\Projeto-Banco.csproj": {}
+    "C:\\Users\\lucas\\Documents\\Faculdade\\3° SEM\\POO\\Tarefa 4 _ Criando uma aplicacao OO\\Projeto-Banco\\Projeto-Banco.csproj": {}
   },
   "projects": {
-    "c:\\Users\\lucas\\Documents\\Faculdade\\3° SEM\\POO\\Tarefa 4 _ Criando uma aplicacao OO\\Projeto-Banco\\Projeto-Banco.csproj": {
+    "C:\\Users\\lucas\\Documents\\Faculdade\\3° SEM\\POO\\Tarefa 4 _ Criando uma aplicacao OO\\Projeto-Banco\\Projeto-Banco.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\lucas\\Documents\\Faculdade\\3° SEM\\POO\\Tarefa 4 _ Criando uma aplicacao OO\\Projeto-Banco\\Projeto-Banco.csproj",
+        "projectUniqueName": "C:\\Users\\lucas\\Documents\\Faculdade\\3° SEM\\POO\\Tarefa 4 _ Criando uma aplicacao OO\\Projeto-Banco\\Projeto-Banco.csproj",
         "projectName": "Projeto-Banco",
-        "projectPath": "c:\\Users\\lucas\\Documents\\Faculdade\\3° SEM\\POO\\Tarefa 4 _ Criando uma aplicacao OO\\Projeto-Banco\\Projeto-Banco.csproj",
+        "projectPath": "C:\\Users\\lucas\\Documents\\Faculdade\\3° SEM\\POO\\Tarefa 4 _ Criando uma aplicacao OO\\Projeto-Banco\\Projeto-Banco.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\lucas\\Documents\\Faculdade\\3° SEM\\POO\\Tarefa 4 _ Criando uma aplicacao OO\\Projeto-Banco\\obj\\",
+        "outputPath": "C:\\Users\\lucas\\Documents\\Faculdade\\3° SEM\\POO\\Tarefa 4 _ Criando uma aplicacao OO\\Projeto-Banco\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
